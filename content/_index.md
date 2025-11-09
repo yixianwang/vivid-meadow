@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
+      title: Write Docs Fast, Focus on Your Content2
       text: The easy, no-code technical documentation solution your users will love 🎉
       primary_action:
         text: Get Started
